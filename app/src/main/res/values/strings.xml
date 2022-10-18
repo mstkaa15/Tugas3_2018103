@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">praktikum3</string>
+    <string name="deskription_menu">this is a homemade culinary from momma house</string>
+    <string name="ingredients"> Ingredient</string>
+    <string name="Resep">cassava, white caviar, brown sugar, edible gold, momma milk</string>
+    <string name="price">price</string>
+    <string name="Harga_Cenil">$ 5999,99</string>
+
+</resources>
