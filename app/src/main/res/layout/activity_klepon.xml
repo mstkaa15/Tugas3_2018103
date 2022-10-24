@@ -22,7 +22,7 @@
                 <ImageView
                     android:layout_width="match_parent"
                     android:layout_height="300dp"
-                    app:srcCompat="@drawable/klepon"
+                    app:srcCompat="@drawable/kursi"
                     android:scaleType="fitXY"/>
                 <ImageView
                     android:layout_width="wrap_content"
@@ -61,7 +61,7 @@
                     android:layout_height="wrap_content"
                     android:textSize="24sp"
                     android:paddingStart="10dp"
-                    android:text="Klepon"
+                    android:text="Kursi"
                     android:textColor="@color/white"
                     android:layout_marginBottom="10dp"/>
                 <LinearLayout
@@ -143,7 +143,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
-                            android:text="@string/price"
+                            android:text="@string/Price"
                             android:textColor="@color/white"
                             android:layout_marginStart="10dp" />
                         <TextView
@@ -151,7 +151,7 @@
                             android:layout_width="wrap_content"
                             android:layout_height="wrap_content"
                             android:layout_weight="1"
-                            android:text="@string/Harga_Cenil"
+                            android:text="@string/Harga_barang"
                             android:textColor="@color/white"
                             android:layout_marginStart="10dp"
                             android:textSize="24sp"/>
@@ -209,7 +209,7 @@
                                     android:id="@+id/imageView1"
                                     android:layout_width="150dp"
                                     android:layout_height="100dp"
-                                    app:srcCompat="@drawable/cenil" />
+                                    app:srcCompat="@drawable/cermin" />
                             </androidx.cardview.widget.CardView>
                             <LinearLayout
                                 android:layout_width="match_parent"
@@ -219,7 +219,7 @@
                                 <TextView
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
-                                    android:text="Klepon"
+                                    android:text="Cermin"
                                     android:textSize="20dp"
                                     android:textColor="@color/white"/>
                                 <LinearLayout
@@ -244,7 +244,7 @@
                                 <TextView
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
-                                    android:text="Rp. 5000"
+                                    android:text="Rp. 100.000"
                                     android:textSize="20dp"
                                     android:textColor="@color/white"/>
                             </LinearLayout>
@@ -266,7 +266,7 @@
                                     android:id="@+id/imageView2"
                                     android:layout_width="150dp"
                                     android:layout_height="100dp"
-                                    app:srcCompat="@drawable/martabak" />
+                                    app:srcCompat="@drawable/meja" />
                             </androidx.cardview.widget.CardView>
                             <LinearLayout
                                 android:layout_width="match_parent"
@@ -276,7 +276,7 @@
                                 <TextView
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
-                                    android:text="Martabak"
+                                    android:text="Meja"
                                     android:textSize="20dp"
                                     android:textColor="@color/white"/>
                                 <LinearLayout
@@ -302,7 +302,7 @@
                                 <TextView
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
-                                    android:text="Rp. 20.000"
+                                    android:text="Rp. 50.000"
                                     android:textSize="20dp"
                                     android:textColor="@color/white"/>
                             </LinearLayout>
@@ -325,7 +325,7 @@
                                     android:layout_width="150dp"
                                     android:layout_height="100dp"
 
-                                    app:srcCompat="@drawable/dadar_gulung" />
+                                    app:srcCompat="@drawable/sofa" />
                             </androidx.cardview.widget.CardView>
                             <LinearLayout
                                 android:layout_width="match_parent"
@@ -335,7 +335,7 @@
                                 <TextView
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
-                                    android:text="Dadar Gulung"
+                                    android:text="sofa"
                                     android:textSize="20dp"
                                     android:textColor="@color/white"/>
                                 <LinearLayout
@@ -360,7 +360,7 @@
                                 <TextView
                                     android:layout_width="match_parent"
                                     android:layout_height="wrap_content"
-                                    android:text="Rp. 5000"
+                                    android:text="Rp. 300.000"
                                     android:textSize="20dp"
                                     android:textColor="@color/white"/>
                             </LinearLayout>
